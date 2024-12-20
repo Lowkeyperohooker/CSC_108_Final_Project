@@ -1,0 +1,28 @@
+{
+    "packages": [
+        {
+            "name": "numpy",
+            "version": "latest"
+        },
+        {
+            "name": "pandas",
+            "version": "latest"
+        },
+        {
+            "name": "scipy",
+            "version": "latest"
+        },
+        {
+            "name": "scikit-learn",
+            "version": "latest"
+        },
+        {
+            "name": "yellowbrick",
+            "version": "latest"
+        },
+        {
+            "name": "tabulate",
+            "version": "latest"
+        }
+    ]
+}
